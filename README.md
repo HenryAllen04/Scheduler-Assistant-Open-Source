@@ -6,7 +6,7 @@
 - WhatsApp: +44 07484718110
 
 ### Current State
-- Refer to 'Releases tag to view current state of repo'
+- Refer to 'Releases' tag to view current state of repo
 - Open-Source
 
 ### Stack
