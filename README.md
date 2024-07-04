@@ -1,7 +1,7 @@
 # Scheduler-Assistant-Open-Source
 ## Contact Me.
 
-### If you would like this solutions fully built out for your business, reach out to me:
+### If you would like this solution fully built out for your business, reach out to me:
 - LinkedIn: https://www.linkedin.com/in/henry-allen-52868926b/
 - WhatsApp: +44 07484718110
 
